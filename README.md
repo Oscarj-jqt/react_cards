@@ -1,4 +1,4 @@
-# Projet React - Gestion de Cartes
+# Projet Gestion de Cartes
 
 Ce projet est une application React permettant de créer et de gérer des cartes avec divers attributs tels que le nom, le coût, le type, la description, l'artwork et les mots-clés.
 
