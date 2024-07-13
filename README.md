@@ -39,5 +39,6 @@ Le composant principal est le cœur de l'application. Il gère l'état global de
 - **Formulaire de Configuration** : 
   - Interface utilisateur pour modifier les attributs de la carte.
   - Inclut des sous-composants pour des champs de saisie spécifiques tels que le coût, le nom et les mots-clés.
+  
 
 Ce projet offre une base solide pour développer une application de gestion de cartes avec une interface utilisateur interactive et dynamique.
